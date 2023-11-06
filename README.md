@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Zain Koreshi!
 
-- 🎓 I’m a penultimate student pursuing a Bachelors of Science (BSc Hons) in Computer Science.
+- 🎓 I am a penultimate student pursuing a Bachelors of Science (BSc Hons) in Computer Science.
 
 - 📍 I live in Hong Kong!
 
