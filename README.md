@@ -10,7 +10,7 @@
 
 - 💾 As far as back-end softwares go, I am proficient in Java, C, Python, SQL, Oracle, MongoDB, CosmosDB, Node.js & Postman.
 
-- 👨‍💼 I have also worked for around a year as a Project Manager for two Accounting Companies and am proficient in •	Microsoft Office, Google Suite, Notion, ClickUp, Trello, Zoho, Copper & Confluence!
+- 👨‍💼 I have also worked for around a year as a Project Manager for two Accounting Companies and am proficient in Microsoft Office, Google Suite, Notion, ClickUp, Trello, Zoho, Copper & Confluence!
 
 - 📆 I am currently looking for internships and/or any work placement for the year 2024!
 
