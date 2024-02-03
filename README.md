@@ -4,7 +4,7 @@
 
 - 📍 I live in Hong Kong!
 
-- 📆 I will begin my role in Financial Securities at The Hongkong and Shanghai Banking Corporation Limited (HSBC) January 2024 onwards!
+- 📆 I am currently working in Financial Securities at The Hongkong and Shanghai Banking Corporation Limited (HSBC).
 
 - 👔 I have previously worked for xymbia (a cloud collaboration platform) as a Software Engineering Intern and dHealth (a blockchain for healthcare) as a Product Design Intern.
 
