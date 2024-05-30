@@ -10,7 +10,7 @@
 
 - 👔 I have previously worked for xymbia (a cloud collaboration platform) as a Software Engineering Intern and dHealth (a blockchain for healthcare) as a Product Design Intern.
 
-- 👨‍💼 I have also worked for around a year as a Project Manager for two Accounting Companies and am proficient in Microsoft Office, Google Suite, Notion, ClickUp, Trello, Zoho, Copper & Confluence!
+- 👨‍💼 I have also worked for 9 months as a Project Manager for Avrio Accounting Solutions in Canada and am proficient in Microsoft Office, Google Suite, Notion, ClickUp, Trello, Zoho, Copper & Confluence!
 
 - 💻 As far as front-end softwares go, I am proficient in Flutter, HTML, JavaScript, TypeScript, CSS, React.js, Express.js & Figma.
 
