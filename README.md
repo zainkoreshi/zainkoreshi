@@ -4,6 +4,8 @@
 
 - 📍 I live in Hong Kong!
 
+- 📷 I make YouTube Videos on various Computer Science topics! Please do check my channel out: https://www.youtube.com/@zainkoreshi 
+
 - 📆 I am currently working in Financial Securities at The Hongkong and Shanghai Banking Corporation Limited (HSBC).
 
 - 👔 I have previously worked for xymbia (a cloud collaboration platform) as a Software Engineering Intern and dHealth (a blockchain for healthcare) as a Product Design Intern.
