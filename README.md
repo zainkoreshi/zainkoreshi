@@ -1,12 +1,16 @@
 - 👋 Hello, my name is Zain Koreshi!
 
-- 🎓 I am a penultimate student pursuing a Bachelors of Science (BSc Hons) in Computer Science.
+- 🎓 I am a final year student pursuing a Bachelors of Science (BSc Hons) in Computer Science at HKBU.
 
 - 📍 I live in Hong Kong!
 
-- 📷 I make YouTube Videos on various Computer Science topics! Please do check my channel out: https://www.youtube.com/@zainkoreshi 
+- 📷 I make YouTube Videos on Generative AI! Please do check my channel out: https://www.youtube.com/@zainkoreshi
 
-- 📆 I am currently working in Financial Securities at The Hongkong and Shanghai Banking Corporation Limited (HSBC).
+- 🌐 I run Hong Kong's first ever Generative AI community. However, we welcome everyone, no matter where you live. Click the link to join, it's free: https://www.skool.com/generativeai
+
+- 📅 I am currently working as an IT intern at Habib Bank Zurich (HBZ).
+
+- 🖥️ I have previously worked as an IT Intern at The Hongkong and Shanghai Banking Corporation Limited (HSBC).
 
 - 👔 I have previously worked for xymbia (a cloud collaboration platform) as a Software Engineering Intern and dHealth (a blockchain for healthcare) as a Product Design Intern.
 
