@@ -4,10 +4,6 @@
 
 - 📍 I live in Hong Kong!
 
-- 📷 I make YouTube Videos on Generative AI! Please do check my channel out: https://www.youtube.com/@zainkoreshi
-
-- 🌐 I run Hong Kong's first ever Generative AI community. However, we welcome everyone, no matter where you live. Click the link to join, it's free: https://www.skool.com/generativeai
-
 - 📅 I am currently working as an IT intern at Habib Bank Zurich (HBZ).
 
 - 🖥️ I have previously worked as an IT Intern at The Hongkong and Shanghai Banking Corporation Limited (HSBC).
