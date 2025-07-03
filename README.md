@@ -1,16 +1,12 @@
 - 👋 Hello, my name is Zain Koreshi!
 
-- 🎓 I am a final year student pursuing a Bachelors of Science (BSc Hons) in Computer Science at HKBU.
+- 🎓 I am a software engineering professional and recent graduate with a Bachelor's degree in Computer Science.
 
 - 📍 I live in Hong Kong!
 
-- 📅 I am currently working as an IT intern at Habib Bank Zurich (HBZ).
+- 👔 I have previously worked at Habib Bank Zurich (HBZ) as an IT Intern, at The Hongkong and Shanghai Banking Corporation Limited (HSBC) as an IT Work Placement Intern, xymbia (a cloud collaboration platform) as a Software Engineering Intern and dHealth (a blockchain for healthcare) as a Product Design Intern.
 
-- 🖥️ I have previously worked as an IT Intern at The Hongkong and Shanghai Banking Corporation Limited (HSBC).
-
-- 👔 I have previously worked for xymbia (a cloud collaboration platform) as a Software Engineering Intern and dHealth (a blockchain for healthcare) as a Product Design Intern.
-
-- 👨‍💼 I have also worked for 9 months as a Project Manager for Avrio Accounting Solutions in Canada and am proficient in Microsoft Office, Google Suite, Notion, ClickUp, Trello, Zoho, Copper & Confluence!
+- 👨‍💼 Not to mention, I have 9 months of experience as a Project Manager for Avrio Accounting Solutions in Canada and am proficient in Microsoft Office, Google Suite, Notion, ClickUp, Trello, Zoho, Copper & Confluence!
 
 - 💻 As far as front-end softwares go, I am proficient in Flutter, HTML, JavaScript, TypeScript, CSS, React.js, Express.js & Figma.
 
