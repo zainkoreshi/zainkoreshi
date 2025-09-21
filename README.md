@@ -1,8 +1,10 @@
 - 👋 Hello, my name is Zain Koreshi!
 
-- 🎓 I am a software engineering professional and recent graduate with a Bachelor's degree in Computer Science.
+- 🎓 I am a software engineering professional with a Bachelor's degree in Computer Science.
 
 - 📍 I live in Hong Kong!
+
+- 🪙 I am working as a Backend Engineer for Options and Derivates Trading at Crypto.com.
 
 - 👔 I have previously worked at Habib Bank Zurich (HBZ) as an IT Intern, at The Hongkong and Shanghai Banking Corporation Limited (HSBC) as an IT Work Placement Intern, xymbia (a cloud collaboration platform) as a Software Engineering Intern and dHealth (a blockchain for healthcare) as a Product Design Intern.
 
@@ -10,7 +12,7 @@
 
 - 💻 As far as front-end softwares go, I am proficient in Flutter, HTML, JavaScript, TypeScript, CSS, React.js, Express.js & Figma.
 
-- 💾 As far as back-end softwares go, I am proficient in Java, C, Python, SQL, Oracle, MongoDB, CosmosDB, Node.js & Postman.
+- 💾 As far as back-end softwares go, I am proficient in Go, Java, C, Python, SQL, Oracle, MongoDB, CosmosDB, Node.js, Next.js & Postman.
 
 - 📫 Feel free to reach out to me on my email (zainkoreshi769@gmail.com) or LinkedIn (https://www.linkedin.com/in/zainkoreshi/).
 
