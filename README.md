@@ -14,7 +14,7 @@
 
 - 💾 As far as back-end softwares go, I am proficient in Go, Java, C, Python, ASP, SQL, Oracle, MongoDB, CosmosDB, Node.js, Next.js & Postman.
 
-- 📫 Feel free to reach out to me on my email (zainkoreshi769@gmail.com) or LinkedIn (https://www.linkedin.com/in/zainkoreshi/).
+- 📫 Feel free to reach out to me on my LinkedIn (https://www.linkedin.com/in/zainkoreshi/).
 
 <!---
 zainkoreshi/zainkoreshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
